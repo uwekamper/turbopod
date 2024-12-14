@@ -1,0 +1,31 @@
+<html><head><title>Turbopod/Podio Authentication</title></head>
+<body>
+  <p>Tetrapod has been authorized.</p>
+  <p id="turbopod-message">Acquiring Podio OAuth2 credentials …</p>
+  <script>
+    var fragmentString = location.hash.substr(1);
+    var fragment = {};
+    var fragmentItemStrings = fragmentString.split('&');
+    for (var i in fragmentItemStrings) {
+      var fragmentItem = fragmentItemStrings[i].split('=');
+      if (fragmentItem.length !== 2) {
+        continue;
+      }
+      fragment[fragmentItem[0]] = fragmentItem[1];
+    }
+    console.log(fragmentString);
+
+    function sendFragment() {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          document.getElementById("turbopod-message").innerHTML =
+            'Podio-OAuth2 credentials acquired successfully. Please close this window and return to your console.';
+        }
+      };
+      xhttp.open("POST", "/", true);
+      xhttp.send(fragmentString);
+    }
+    sendFragment();
+</script>
+</body></html>

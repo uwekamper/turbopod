@@ -1,0 +1,1390 @@
+{
+  "presence": {
+    "ref_type": "item",
+    "ref_id": 503454014,
+    "user_id": 3635810,
+    "signature": "6e9aef8e87338603304dab91dc152aef8e332c6e"
+  },
+  "app": {
+    "status": "active",
+    "sharefile_vault_url": null,
+    "name": "Inspiration",
+    "default_view_id": null,
+    "url_add": "https://podio.com/c-base/demospace/apps/inspiration/items/new",
+    "icon_id": 105,
+    "link_add": "https://podio.com/c-base/demospace/apps/inspiration/items/new",
+    "app_id": 17065973,
+    "current_revision": 18,
+    "is_default": false,
+    "item_name": "Inspiration",
+    "link": "https://podio.com/c-base/demospace/apps/inspiration",
+    "url": "https://podio.com/c-base/demospace/apps/inspiration",
+    "url_label": "inspiration",
+    "config": {
+      "item_name": "Inspiration",
+      "icon_id": 105,
+      "type": "standard",
+      "name": "Inspiration",
+      "icon": "105.png"
+    },
+    "space_id": 4941541,
+    "icon": "105.png"
+  },
+  "user_ratings": {
+    "like": null
+  },
+  "created_on": "2016-10-26 16:58:10",
+  "like_count": 0,
+  "comments": [
+
+  ],
+  "last_event_on": "2018-06-17 19:55:41",
+  "linked_account_data": null,
+  "sharefile_vault_folder_id": null,
+  "refs": [
+    {
+      "count": 1,
+      "field": {
+        "external_id": "relationship",
+        "type": "app",
+        "config": {
+          "settings": {
+            "referenced_apps": [
+              {
+                "view_id": null,
+                "app_id": 17065973
+              }
+            ],
+            "multiple": true,
+            "referenceable_types": [
+              17065973
+            ]
+          },
+          "mapping": null,
+          "label": "Relationship"
+        },
+        "field_id": 172716732,
+        "label": "Relationship"
+      },
+      "app": {
+        "status": "active",
+        "sharefile_vault_url": null,
+        "name": "Projects",
+        "default_view_id": null,
+        "url_add": "https://podio.com/c-base/project-management/apps/projects/items/new",
+        "icon_id": 378,
+        "link_add": "https://podio.com/c-base/project-management/apps/projects/items/new",
+        "app_id": 17065964,
+        "current_revision": 4,
+        "is_default": true,
+        "item_name": "Project",
+        "link": "https://podio.com/c-base/project-management/apps/projects",
+        "url": "https://podio.com/c-base/project-management/apps/projects",
+        "url_label": "projects",
+        "config": {
+          "item_name": "Project",
+          "icon_id": 378,
+          "type": "standard",
+          "name": "Projects",
+          "icon": "378.png"
+        },
+        "space_id": 4941542,
+        "icon": "378.png"
+      }
+    }
+  ],
+  "app_item_id_formatted": "8",
+  "ratings": {
+    "fivestar": {
+      "average": null,
+      "counts": {
+        "1": {
+          "total": 0,
+          "users": [
+
+          ]
+        },
+        "2": {
+          "total": 0,
+          "users": [
+
+          ]
+        },
+        "3": {
+          "total": 0,
+          "users": [
+
+          ]
+        },
+        "4": {
+          "total": 0,
+          "users": [
+
+          ]
+        },
+        "5": {
+          "total": 0,
+          "users": [
+
+          ]
+        }
+      }
+    },
+    "like": {
+      "average": null,
+      "counts": {
+        "1": {
+          "total": 0,
+          "users": [
+
+          ]
+        }
+      }
+    }
+  },
+  "subscribed": true,
+  "title": "Bow of boat",
+  "participants": {
+
+  },
+  "created_by": {
+    "user_id": 3635810,
+    "name": "Uwe Kamper",
+    "url": "https://podio.com/users/3635810",
+    "type": "user",
+    "image": {
+      "hosted_by": "podio",
+      "hosted_by_humanized_name": "Podio",
+      "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+      "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+      "file_id": 261281274,
+      "external_file_id": null,
+      "link_target": "_blank"
+    },
+    "avatar_type": "file",
+    "avatar": 261281274,
+    "id": 3635810,
+    "avatar_id": 261281274,
+    "last_seen_on": "2018-06-22 10:26:05"
+  },
+  "priority": 503454014.0,
+  "created_via": {
+    "url": null,
+    "auth_client_id": 5552,
+    "display": false,
+    "name": "AppContentBatch",
+    "id": 5552
+  },
+  "subscribed_count": 1,
+  "reminder": null,
+  "revisions": [
+    {
+      "item_revision_id": 2558727037,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 1,
+        "display": false,
+        "name": "Podio",
+        "id": 1
+      },
+      "created_by": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "created_on": "2018-06-17 19:55:41",
+      "user": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "type": "update",
+      "revision": 10
+    },
+    {
+      "item_revision_id": 2548357765,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 1,
+        "display": false,
+        "name": "Podio",
+        "id": 1
+      },
+      "created_by": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "created_on": "2018-06-13 14:59:10",
+      "user": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "type": "update",
+      "revision": 9
+    },
+    {
+      "item_revision_id": 2540711775,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 1,
+        "display": false,
+        "name": "Podio",
+        "id": 1
+      },
+      "created_by": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "created_on": "2018-06-11 12:31:25",
+      "user": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "type": "update",
+      "revision": 8
+    },
+    {
+      "item_revision_id": 2540709349,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 1,
+        "display": false,
+        "name": "Podio",
+        "id": 1
+      },
+      "created_by": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "created_on": "2018-06-11 12:30:35",
+      "user": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "type": "update",
+      "revision": 7
+    },
+    {
+      "item_revision_id": 2540709202,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 1,
+        "display": false,
+        "name": "Podio",
+        "id": 1
+      },
+      "created_by": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "created_on": "2018-06-11 12:30:32",
+      "user": {
+        "user_id": 3635810,
+        "name": "Uwe Kamper",
+        "url": "https://podio.com/users/3635810",
+        "type": "user",
+        "image": {
+          "hosted_by": "podio",
+          "hosted_by_humanized_name": "Podio",
+          "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+          "file_id": 261281274,
+          "external_file_id": null,
+          "link_target": "_blank"
+        },
+        "avatar_type": "file",
+        "avatar": 261281274,
+        "id": 3635810,
+        "avatar_id": 261281274,
+        "last_seen_on": "2018-06-22 10:26:05"
+      },
+      "type": "update",
+      "revision": 6
+    }
+  ],
+  "ref": null,
+  "is_liked": false,
+  "revision": 10,
+  "files": [
+    {
+      "mimetype": "image/png",
+      "perma_link": null,
+      "hosted_by": "podio",
+      "replaces": [
+
+      ],
+      "description": null,
+      "hosted_by_humanized_name": "Podio",
+      "presence": null,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 25057,
+        "display": true,
+        "name": "uktest",
+        "id": 25057
+      },
+      "created_by": {
+        "user_id": -1,
+        "name": "Inspiration",
+        "url": "https://podio.com/c-base/demospace/apps/inspiration",
+        "type": "app",
+        "image": null,
+        "avatar_type": "icon",
+        "avatar": -1,
+        "id": 17065973,
+        "avatar_id": 105,
+        "last_seen_on": null
+      },
+      "thumbnail_link": "https://files.podio.com/499937812",
+      "created_on": "2018-02-02 01:55:24",
+      "link": "https://files.podio.com/499937812",
+      "file_id": 499937812,
+      "rights": [
+        "download",
+        "view",
+        "update",
+        "delete"
+      ],
+      "push": null,
+      "external_file_id": null,
+      "link_target": "_blank",
+      "size": 13107,
+      "name": "blafasel.png"
+    },
+    {
+      "mimetype": "image/jpeg",
+      "perma_link": null,
+      "hosted_by": "podio",
+      "replaces": [
+
+      ],
+      "description": null,
+      "hosted_by_humanized_name": "Podio",
+      "presence": null,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 25057,
+        "display": true,
+        "name": "uktest",
+        "id": 25057
+      },
+      "created_by": {
+        "user_id": -1,
+        "name": "Inspiration",
+        "url": "https://podio.com/c-base/demospace/apps/inspiration",
+        "type": "app",
+        "image": null,
+        "avatar_type": "icon",
+        "avatar": -1,
+        "id": 17065973,
+        "avatar_id": 105,
+        "last_seen_on": null
+      },
+      "thumbnail_link": "https://files.podio.com/500184048",
+      "created_on": "2018-02-02 11:10:22",
+      "link": "https://files.podio.com/500184048",
+      "file_id": 500184048,
+      "rights": [
+        "download",
+        "view",
+        "update",
+        "delete"
+      ],
+      "push": null,
+      "external_file_id": null,
+      "link_target": "_blank",
+      "size": 163333,
+      "name": "blafasel_2018_02_02.jpg"
+    },
+    {
+      "mimetype": "image/jpeg",
+      "perma_link": null,
+      "hosted_by": "podio",
+      "replaces": [
+
+      ],
+      "description": null,
+      "hosted_by_humanized_name": "Podio",
+      "presence": null,
+      "created_via": {
+        "url": null,
+        "auth_client_id": 25057,
+        "display": true,
+        "name": "uktest",
+        "id": 25057
+      },
+      "created_by": {
+        "user_id": -1,
+        "name": "Inspiration",
+        "url": "https://podio.com/c-base/demospace/apps/inspiration",
+        "type": "app",
+        "image": null,
+        "avatar_type": "icon",
+        "avatar": -1,
+        "id": 17065973,
+        "avatar_id": 105,
+        "last_seen_on": null
+      },
+      "thumbnail_link": "https://files.podio.com/500184055",
+      "created_on": "2018-02-02 11:10:23",
+      "link": "https://files.podio.com/500184055",
+      "file_id": 500184055,
+      "rights": [
+        "download",
+        "view",
+        "update",
+        "delete"
+      ],
+      "push": null,
+      "external_file_id": null,
+      "link_target": "_blank",
+      "size": 237342,
+      "name": "blafasel_2018_02_02.jpg"
+    }
+  ],
+  "invite": null,
+  "tags": [
+
+  ],
+  "app_item_id": 8,
+  "link": "https://podio.com/c-base/demospace/apps/inspiration/items/8",
+  "item_id": 503454014,
+  "sharefile_vault_url": null,
+  "recurrence": null,
+  "fields": [
+    {
+      "status": "active",
+      "type": "app",
+      "field_id": 133148966,
+      "label": "Project",
+      "values": [
+        {
+          "value": {
+            "files": [
+
+            ],
+            "sharefile_vault_url": null,
+            "space": {
+              "sharefile_vault_url": null,
+              "name": "Demo Workspace",
+              "url": "https://podio.com/c-base/demospace",
+              "url_label": "demospace",
+              "space_id": 4941541,
+              "org_id": 1201882,
+              "type": "demo"
+            },
+            "app_item_id": 13,
+            "app": {
+              "status": "active",
+              "sharefile_vault_url": null,
+              "name": "Projects",
+              "default_view_id": null,
+              "url_add": "https://podio.com/c-base/demospace/apps/projects/items/new",
+              "icon_id": 265,
+              "link_add": "https://podio.com/c-base/demospace/apps/projects/items/new",
+              "app_id": 17065972,
+              "current_revision": 2,
+              "is_default": false,
+              "item_name": "Project",
+              "link": "https://podio.com/c-base/demospace/apps/projects",
+              "url": "https://podio.com/c-base/demospace/apps/projects",
+              "url_label": "projects",
+              "config": {
+                "item_name": "Project",
+                "icon_id": 265,
+                "type": "standard",
+                "name": "Projects",
+                "icon": "265.png"
+              },
+              "space_id": 4941541,
+              "icon": "265.png"
+            },
+            "title": "Project 503454054",
+            "initial_revision": {
+              "item_revision_id": 1199826736,
+              "created_via": {
+                "url": null,
+                "auth_client_id": 5552,
+                "display": false,
+                "name": "AppContentBatch",
+                "id": 5552
+              },
+              "created_by": {
+                "user_id": 3635810,
+                "name": "Uwe Kamper",
+                "url": "https://podio.com/users/3635810",
+                "type": "user",
+                "image": {
+                  "hosted_by": "podio",
+                  "hosted_by_humanized_name": "Podio",
+                  "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+                  "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+                  "file_id": 261281274,
+                  "external_file_id": null,
+                  "link_target": "_blank"
+                },
+                "avatar_type": "file",
+                "avatar": 261281274,
+                "id": 3635810,
+                "avatar_id": 261281274,
+                "last_seen_on": "2018-06-22 23:51:48"
+              },
+              "created_on": "2016-10-26 16:58:11",
+              "user": {
+                "user_id": 3635810,
+                "name": "Uwe Kamper",
+                "url": "https://podio.com/users/3635810",
+                "type": "user",
+                "image": {
+                  "hosted_by": "podio",
+                  "hosted_by_humanized_name": "Podio",
+                  "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+                  "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+                  "file_id": 261281274,
+                  "external_file_id": null,
+                  "link_target": "_blank"
+                },
+                "avatar_type": "file",
+                "avatar": 261281274,
+                "id": 3635810,
+                "avatar_id": 261281274,
+                "last_seen_on": "2018-06-22 23:51:48"
+              },
+              "type": "creation",
+              "revision": 0
+            },
+            "created_via": {
+              "url": null,
+              "auth_client_id": 5552,
+              "display": false,
+              "name": "AppContentBatch",
+              "id": 5552
+            },
+            "created_by": {
+              "user_id": 3635810,
+              "name": "Uwe Kamper",
+              "url": "https://podio.com/users/3635810",
+              "type": "user",
+              "image": {
+                "hosted_by": "podio",
+                "hosted_by_humanized_name": "Podio",
+                "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+                "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+                "file_id": 261281274,
+                "external_file_id": null,
+                "link_target": "_blank"
+              },
+              "avatar_type": "file",
+              "avatar": 261281274,
+              "id": 3635810,
+              "avatar_id": 261281274,
+              "last_seen_on": "2018-06-22 23:51:48"
+            },
+            "created_on": "2016-10-26 16:58:11",
+            "link": "https://podio.com/c-base/demospace/apps/projects/items/13",
+            "item_id": 503454054,
+            "sharefile_vault_folder_id": null,
+            "revision": 0
+          }
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": "Which project can this inspire?",
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "Project",
+        "visible": true,
+        "delta": 2,
+        "hidden": false,
+        "settings": {
+          "multiple": true,
+          "referenced_apps": [
+            {
+              "view_id": null,
+              "app": {
+                "status": "active",
+                "sharefile_vault_url": null,
+                "name": "Projects",
+                "rights": [
+                  "add_hook",
+                  "add_widget",
+                  "add_flow",
+                  "install",
+                  "view_structure",
+                  "view",
+                  "manage_public_views",
+                  "subscribe",
+                  "add_item",
+                  "reference",
+                  "update",
+                  "share",
+                  "add_integration",
+                  "delete",
+                  "add_task",
+                  "export"
+                ],
+                "default_view_id": null,
+                "url_add": "https://podio.com/c-base/demospace/apps/projects/items/new",
+                "icon_id": 265,
+                "space": {
+                  "sharefile_vault_url": null,
+                  "name": "Demo Workspace",
+                  "url": "https://podio.com/c-base/demospace",
+                  "url_label": "demospace",
+                  "space_id": 4941541,
+                  "org_id": 1201882,
+                  "type": "demo"
+                },
+                "link_add": "https://podio.com/c-base/demospace/apps/projects/items/new",
+                "app_id": 17065972,
+                "current_revision": 2,
+                "is_default": false,
+                "item_name": "Project",
+                "link": "https://podio.com/c-base/demospace/apps/projects",
+                "url": "https://podio.com/c-base/demospace/apps/projects",
+                "url_label": "projects",
+                "config": {
+                  "item_name": "Project",
+                  "icon_id": 265,
+                  "type": "standard",
+                  "name": "Projects",
+                  "icon": "265.png"
+                },
+                "space_id": 4941541,
+                "icon": "265.png"
+              },
+              "app_id": 17065972,
+              "view": null
+            }
+          ],
+          "apps": [
+            {
+              "status": "active",
+              "sharefile_vault_url": null,
+              "name": "Projects",
+              "rights": [
+                "add_hook",
+                "add_widget",
+                "add_flow",
+                "install",
+                "view_structure",
+                "view",
+                "manage_public_views",
+                "subscribe",
+                "add_item",
+                "reference",
+                "update",
+                "share",
+                "add_integration",
+                "delete",
+                "add_task",
+                "export"
+              ],
+              "default_view_id": null,
+              "url_add": "https://podio.com/c-base/demospace/apps/projects/items/new",
+              "icon_id": 265,
+              "space": {
+                "sharefile_vault_url": null,
+                "name": "Demo Workspace",
+                "url": "https://podio.com/c-base/demospace",
+                "url_label": "demospace",
+                "space_id": 4941541,
+                "org_id": 1201882,
+                "type": "demo"
+              },
+              "link_add": "https://podio.com/c-base/demospace/apps/projects/items/new",
+              "app_id": 17065972,
+              "current_revision": 2,
+              "is_default": false,
+              "item_name": "Project",
+              "link": "https://podio.com/c-base/demospace/apps/projects",
+              "url": "https://podio.com/c-base/demospace/apps/projects",
+              "url_label": "projects",
+              "config": {
+                "item_name": "Project",
+                "icon_id": 265,
+                "type": "standard",
+                "name": "Projects",
+                "icon": "265.png"
+              },
+              "space_id": 4941541,
+              "icon": "265.png"
+            }
+          ],
+          "referenceable_types": [
+            17065972
+          ]
+        }
+      },
+      "external_id": "projects"
+    },
+    {
+      "status": "active",
+      "type": "text",
+      "field_id": 133148964,
+      "label": "Name",
+      "values": [
+        {
+          "value": "Bow of boat"
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": true,
+        "mapping": null,
+        "label": "Name",
+        "visible": true,
+        "delta": 0,
+        "hidden": false,
+        "settings": {
+          "format": "plain",
+          "size": "small"
+        }
+      },
+      "external_id": "name"
+    },
+    {
+      "status": "active",
+      "type": "image",
+      "field_id": 133148965,
+      "label": "Images",
+      "values": [
+        {
+          "value": {
+            "mimetype": "image/jpeg",
+            "perma_link": null,
+            "hosted_by": "podio",
+            "description": null,
+            "hosted_by_humanized_name": "Podio",
+            "size": 34755,
+            "thumbnail_link": "https://files.podio.com/261281303",
+            "link": "https://files.podio.com/261281303",
+            "file_id": 261281303,
+            "external_file_id": null,
+            "link_target": "_blank",
+            "name": "openphoto.net_ The Original Open Photo Project 23953.openphoto.net by MIROSLAV VAJDIĆ [tags_ Old, fishermans, boat, sea, sun, summer ].jpg"
+          }
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": "Supported image types: .jpg .gif .png",
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "Images",
+        "visible": true,
+        "delta": 1,
+        "hidden": false,
+        "settings": {
+          "allowed_mimetypes": [
+            "image/png"
+          ]
+        }
+      },
+      "external_id": "images"
+    },
+    {
+      "status": "active",
+      "type": "location",
+      "field_id": 172571682,
+      "label": "location",
+      "values": [
+        {
+          "city": "Morschen",
+          "map_in_sync": true,
+          "country": "Germany",
+          "formatted": "Wichte, 34326 Morschen, Germany",
+          "value": "Wichte, 34326 Morschen, Germany",
+          "state": "Hessen",
+          "postal_code": "34326",
+          "lat": 51.0406982,
+          "lng": 9.5846674
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "location",
+        "visible": true,
+        "delta": 3,
+        "hidden": false,
+        "settings": {
+          "structured": false,
+          "has_map": true
+        }
+      },
+      "external_id": "location"
+    },
+    {
+      "status": "active",
+      "type": "calculation",
+      "field_id": 165394195,
+      "label": "calc",
+      "values": [
+        {
+          "value": "Hello,  John Doe"
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "calc",
+        "visible": true,
+        "delta": 4,
+        "hidden": false,
+        "settings": {
+          "script": "var myName = @[\"Blub\"](field_158609226);\n\n\"Hello, \" + ' ' + myName;\n",
+          "color": null,
+          "expression": null,
+          "time": null,
+          "calendar": null,
+          "decimals": null,
+          "return_type": "text",
+          "unit": null
+        }
+      },
+      "external_id": "calc"
+    },
+
+
+        {
+      "status": "active",
+      "type": "embed",
+      "field_id": 165394195,
+      "label": "embed",
+      "values": [{"embed": {"description": null,
+                       "embed_height": null,
+                       "embed_html": null,
+                       "embed_id": 442191300,
+                       "embed_width": null,
+                       "hostname": "newsletter-webversion.de",
+                       "original_url": "http://www.newsletter-webversion.de/?c=0-v0yw-0-11xa&utm_source=newsletter&utm_medium=email&utm_campaign=02%2F2017+DT&newsletter=02%2F2017+DT",
+                       "resolved_url": "http://www.newsletter-webversion.de/?c=0-v0yw-0-11xa&utm_source=newsletter&utm_medium=email&utm_campaign=02%2F2017+DT&newsletter=02%2F2017+DT",
+                       "title": "http://www.newsletter-webversion.de/?c=0-v0yw-0-11xa&utm_source=newsletter&utm_medium=email&utm_campaign=02%2F2017+DT&newsletter=02%2F2017+DT",
+                       "type": "link",
+                       "url": "http://www.newsletter-webversion.de/?c=0-v0yw-0-11xa&utm_source=newsletter&utm_medium=email&utm_campaign=02%2F2017+DT&newsletter=02%2F2017+DT"},
+             "file": {"external_file_id": null,
+                      "file_id": 622255932,
+                      "hosted_by": "podio",
+                      "hosted_by_humanized_name": "Podio",
+                      "link": "https://files.podio.com/622255932",
+                      "link_target": "_blank",
+                      "thumbnail_link": "https://files.podio.com/622255932"}}
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "embed",
+        "visible": true,
+        "delta": 4,
+        "hidden": false,
+        "settings": {
+          "color": null,
+          "expression": null,
+          "time": null,
+          "calendar": null,
+          "decimals": null,
+          "return_type": "text",
+          "unit": null
+        }
+      },
+      "external_id": "embed"
+    },
+
+    {
+      "status": "active",
+      "type": "date",
+      "field_id": 165394195,
+      "label": "date",
+      "values": [
+        {
+          "start": "2018-07-27 01:00:00",
+          "start_date": "2018-07-27",
+          "start_date_utc": "2018-07-27",
+          "start_time": "01:00:00",
+          "start_time_utc": "01:00:00",
+          "start_utc": "2018-07-27",
+          "end": "2018-07-28 01:00:00"
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "date",
+        "visible": true,
+        "delta": 4,
+        "hidden": false,
+        "settings": {
+          "color": null,
+          "expression": null,
+          "time": null,
+          "calendar": null,
+          "decimals": null,
+          "return_type": "text",
+          "unit": null
+        }
+      },
+      "external_id": "date"
+    },
+    {
+      "status": "active",
+      "type": "category",
+      "field_id": 133148967,
+      "label": "Status",
+      "values": [
+        {
+          "value": {
+            "status": "active",
+            "text": "Accepted",
+            "id": 2,
+            "color": "DCEBD8"
+          }
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "Status",
+        "visible": true,
+        "delta": 5,
+        "hidden": false,
+        "settings": {
+          "multiple": false,
+          "options": [
+            {
+              "status": "active",
+              "text": "Entered",
+              "id": 1,
+              "color": "D2E4EB"
+            },
+            {
+              "status": "active",
+              "text": "Accepted",
+              "id": 2,
+              "color": "DCEBD8"
+            },
+            {
+              "status": "active",
+              "text": "Rejected",
+              "id": 3,
+              "color": "F7D1D0"
+            }
+          ],
+          "display": "inline"
+        }
+      },
+      "external_id": "status2"
+    },
+    {
+      "status": "active",
+      "type": "text",
+      "field_id": 133148968,
+      "label": "Description",
+      "values": [
+        {
+          "value": "<p>There's something about knowing the bow from the stern that makes sense in regard to this project.</p>"
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "Description",
+        "visible": true,
+        "delta": 6,
+        "hidden": false,
+        "settings": {
+          "format": "html",
+          "size": "large"
+        }
+      },
+      "external_id": "description"
+    },
+    {
+      "status": "active",
+      "type": "category",
+      "field_id": 165413011,
+      "label": "doit",
+      "values": [
+        {
+          "value": {
+            "status": "active",
+            "text": "Go",
+            "id": 4,
+            "color": "DCEBD8"
+          }
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "doit",
+        "visible": true,
+        "delta": 8,
+        "hidden": false,
+        "settings": {
+          "multiple": false,
+          "options": [
+            {
+              "status": "active",
+              "text": "No",
+              "id": 1,
+              "color": "DCEBD8"
+            },
+            {
+              "status": "active",
+              "text": "Yes",
+              "id": 2,
+              "color": "DCEBD8"
+            },
+            {
+              "status": "active",
+              "text": "Done",
+              "id": 3,
+              "color": "DCEBD8"
+            },
+            {
+              "status": "active",
+              "text": "Go",
+              "id": 4,
+              "color": "DCEBD8"
+            }
+          ],
+          "display": "inline"
+        }
+      },
+      "external_id": "do-it"
+    },
+    {
+      "status": "active",
+      "type": "text",
+      "field_id": 158609226,
+      "label": "Blub",
+      "values": [
+        {
+          "value": "John Doe"
+        }
+      ],
+      "config": {
+        "default_value": null,
+        "unique": false,
+        "description": null,
+        "hidden_create_view_edit": false,
+        "required": false,
+        "mapping": null,
+        "label": "Blub",
+        "visible": true,
+        "delta": 9,
+        "hidden": false,
+        "settings": {
+          "format": "plain",
+          "size": "small"
+        }
+      },
+      "external_id": "blub"
+    }
+  ],
+  "rights": [
+    "comment",
+    "update",
+    "grant",
+    "add_task",
+    "add_conversation",
+    "view",
+    "add_file",
+    "delete",
+    "subscribe",
+    "rate"
+  ],
+  "initial_revision": {
+    "item_revision_id": 1199826634,
+    "created_via": {
+      "url": null,
+      "auth_client_id": 5552,
+      "display": false,
+      "name": "AppContentBatch",
+      "id": 5552
+    },
+    "created_by": {
+      "user_id": 3635810,
+      "name": "Uwe Kamper",
+      "url": "https://podio.com/users/3635810",
+      "type": "user",
+      "image": {
+        "hosted_by": "podio",
+        "hosted_by_humanized_name": "Podio",
+        "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "file_id": 261281274,
+        "external_file_id": null,
+        "link_target": "_blank"
+      },
+      "avatar_type": "file",
+      "avatar": 261281274,
+      "id": 3635810,
+      "avatar_id": 261281274,
+      "last_seen_on": "2018-06-22 10:26:05"
+    },
+    "created_on": "2016-10-26 16:58:10",
+    "user": {
+      "user_id": 3635810,
+      "name": "Uwe Kamper",
+      "url": "https://podio.com/users/3635810",
+      "type": "user",
+      "image": {
+        "hosted_by": "podio",
+        "hosted_by_humanized_name": "Podio",
+        "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "file_id": 261281274,
+        "external_file_id": null,
+        "link_target": "_blank"
+      },
+      "avatar_type": "file",
+      "avatar": 261281274,
+      "id": 3635810,
+      "avatar_id": 261281274,
+      "last_seen_on": "2018-06-22 10:26:05"
+    },
+    "type": "creation",
+    "revision": 0
+  },
+  "current_revision": {
+    "item_revision_id": 2558727037,
+    "created_via": {
+      "url": null,
+      "auth_client_id": 1,
+      "display": false,
+      "name": "Podio",
+      "id": 1
+    },
+    "created_by": {
+      "user_id": 3635810,
+      "name": "Uwe Kamper",
+      "url": "https://podio.com/users/3635810",
+      "type": "user",
+      "image": {
+        "hosted_by": "podio",
+        "hosted_by_humanized_name": "Podio",
+        "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "file_id": 261281274,
+        "external_file_id": null,
+        "link_target": "_blank"
+      },
+      "avatar_type": "file",
+      "avatar": 261281274,
+      "id": 3635810,
+      "avatar_id": 261281274,
+      "last_seen_on": "2018-06-22 10:26:05"
+    },
+    "created_on": "2018-06-17 19:55:41",
+    "user": {
+      "user_id": 3635810,
+      "name": "Uwe Kamper",
+      "url": "https://podio.com/users/3635810",
+      "type": "user",
+      "image": {
+        "hosted_by": "podio",
+        "hosted_by_humanized_name": "Podio",
+        "thumbnail_link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "link": "https://d2cmuesa4snpwn.cloudfront.net/public/261281274",
+        "file_id": 261281274,
+        "external_file_id": null,
+        "link_target": "_blank"
+      },
+      "avatar_type": "file",
+      "avatar": 261281274,
+      "id": 3635810,
+      "avatar_id": 261281274,
+      "last_seen_on": "2018-06-22 10:26:05"
+    },
+    "type": "update",
+    "revision": 10
+  },
+  "linked_account_id": null,
+  "push": {
+    "timestamp": 1529663375,
+    "expires_in": 21600,
+    "channel": "/item/503454014",
+    "signature": "44cd53fd535f247980f07eb0562029e105e2afdf"
+  },
+  "external_id": "share_10063125"
+}

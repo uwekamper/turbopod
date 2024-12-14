@@ -1,0 +1,28 @@
+[project]
+name = "turbopod"
+version = "0.0.1"
+authors = [
+  { name="Uwe Kamper", email="me@uwekamper.de" },
+]
+description = "A modern utility package for using the Podio API with Python."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  'requests',
+  'requests-oauthlib',
+  'python-dateutil',
+  'click'
+]
+
+[project.urls]
+Homepage = "https://github.com/uwekamper/turbopod"
+Issues = "https://github.com/uwekamper/turbopod/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
